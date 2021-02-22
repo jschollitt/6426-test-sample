@@ -1,0 +1,13 @@
+C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\bin\Debug\netcoreapp3.1\TimeTest_Sample.exe
+C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\bin\Debug\netcoreapp3.1\TimeTest_Sample.deps.json
+C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\bin\Debug\netcoreapp3.1\TimeTest_Sample.runtimeconfig.json
+C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\bin\Debug\netcoreapp3.1\TimeTest_Sample.runtimeconfig.dev.json
+C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\bin\Debug\netcoreapp3.1\TimeTest_Sample.dll
+C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\bin\Debug\netcoreapp3.1\TimeTest_Sample.pdb
+C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.csprojAssemblyReference.cache
+C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.AssemblyInfoInputs.cache
+C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.AssemblyInfo.cs
+C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.csproj.CoreCompileInputs.cache
+C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.dll
+C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.pdb
+C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.genruntimeconfig.cache
