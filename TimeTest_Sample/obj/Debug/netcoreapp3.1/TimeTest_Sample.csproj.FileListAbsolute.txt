@@ -11,3 +11,16 @@ C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\obj\Debug\netco
 C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.dll
 C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.pdb
 C:\Users\jschollitt\source\repos\TimeTest_Sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.genruntimeconfig.cache
+C:\Users\jscho\Documents\GitHub\6426-test-sample\TimeTest_Sample\bin\Debug\netcoreapp3.1\TimeTest_Sample.exe
+C:\Users\jscho\Documents\GitHub\6426-test-sample\TimeTest_Sample\bin\Debug\netcoreapp3.1\TimeTest_Sample.deps.json
+C:\Users\jscho\Documents\GitHub\6426-test-sample\TimeTest_Sample\bin\Debug\netcoreapp3.1\TimeTest_Sample.runtimeconfig.json
+C:\Users\jscho\Documents\GitHub\6426-test-sample\TimeTest_Sample\bin\Debug\netcoreapp3.1\TimeTest_Sample.runtimeconfig.dev.json
+C:\Users\jscho\Documents\GitHub\6426-test-sample\TimeTest_Sample\bin\Debug\netcoreapp3.1\TimeTest_Sample.dll
+C:\Users\jscho\Documents\GitHub\6426-test-sample\TimeTest_Sample\bin\Debug\netcoreapp3.1\TimeTest_Sample.pdb
+C:\Users\jscho\Documents\GitHub\6426-test-sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.csprojAssemblyReference.cache
+C:\Users\jscho\Documents\GitHub\6426-test-sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.AssemblyInfoInputs.cache
+C:\Users\jscho\Documents\GitHub\6426-test-sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.AssemblyInfo.cs
+C:\Users\jscho\Documents\GitHub\6426-test-sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.csproj.CoreCompileInputs.cache
+C:\Users\jscho\Documents\GitHub\6426-test-sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.dll
+C:\Users\jscho\Documents\GitHub\6426-test-sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.pdb
+C:\Users\jscho\Documents\GitHub\6426-test-sample\TimeTest_Sample\obj\Debug\netcoreapp3.1\TimeTest_Sample.genruntimeconfig.cache

@@ -10,6 +10,7 @@ namespace TimeTest_Sample
         static void Main()
         {
             Test.RunTest(Fibonacci);
+            //Test.RunTest(NestedLoops);
         }
 
         /// <summary>
@@ -32,6 +33,20 @@ namespace TimeTest_Sample
                 a = b;
                 b = c;
             }
+        }
+
+        static void NestedLoops(int n)
+        {
+            int count = 0;
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    if ((i + j) % 2 == 0)
+                        count++;
+                }
+            }
+            Console.WriteLine("Count: {0}", count);
         }
     }
 }

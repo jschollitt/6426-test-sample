@@ -19,7 +19,7 @@ namespace TimeTest_Sample
         public static void RunTest(Action<int> runFunc)
         {
             /// Create 2 arrays, 1 for test sizes, 1 for holding the elapsed times
-            int[] inputLengths = { 10, 100, 1000, 10000, 100000, 1000000 };
+            int[] inputLengths = { 10, 100, 1000, 10000, 100000, 200000 };
             TimeSpan[] elapsedTimes = new TimeSpan[6];
             
             Console.WriteLine("Beginning tests...");
@@ -28,7 +28,7 @@ namespace TimeTest_Sample
             var watch = Stopwatch.StartNew();
 
             /// loop over the test lengths
-            foreach (int i in inputLengths)
+            for (int i = 0; i < inputLengths.Length; i++)
             {
                 /// restart the timer
                 watch.Restart();
